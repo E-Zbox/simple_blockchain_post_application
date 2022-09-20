@@ -69,7 +69,7 @@ After installing, switch metamask network from Ethereum mainnet to the Goerli ne
 
 #### Cloning the project
 
--   On your terminal run the command `git clone https://simple...`
+-   On your terminal run the command `git clone https://github.com/E-Zbox/simple_blockchain_post_application`
 -   `cd` into the newly cloned project
 
 #### Installing application dependencies
