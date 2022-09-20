@@ -1,4 +1,4 @@
-# Simple Post Web Application
+# Simple Blockchain Post Web Application
 
 **I AM NOT AFFILIATED TO ANY OF THE LINKS PROVIDED BELOW. ALL LINKS ARE FOR EDUCATIONAL AND DEVELOPMENT PURPOSES**
 
