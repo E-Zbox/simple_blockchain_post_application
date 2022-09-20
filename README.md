@@ -1,6 +1,8 @@
 # Simple Blockchain Post Web Application
 
-**I AM NOT AFFILIATED TO ANY OF THE LINKS PROVIDED BELOW. ALL LINKS ARE FOR EDUCATIONAL AND DEVELOPMENT PURPOSES**
+**NOTE:**
+
+_I AM NOT AFFILIATED TO ANY OF THE LINKS PROVIDED BELOW. ALL LINKS ARE FOR EDUCATIONAL AND DEVELOPMENT PURPOSES_
 
 ### Table of Contents
 
@@ -18,25 +20,25 @@ This is a simple Blockchain based application with a smart contract deployed on 
 
 **NOTE**: _Only posts of a particular (your) address can be retrieved_
 
-### Technologies Used
+### Technologies Used ⚙👩‍💻
 
 #### Blockchain and Backend
 
-[**Remix**](http://remix.ethereum.org/)
+-   [_Remix_](http://remix.ethereum.org/)
 
 This was used to write and deploy the smart contract.
 
-**Metamask**
+-   _Metamask_
 
 A Signer and Provider platform (software wallet) for reading and writing data to any selected Blockchain network.
 
 #### Frontend
 
-**Ethers** node package
+-   _Ethers_ node package
 
 An open source library similar to **web3.js** that allows developers to interact with the Ethereum blockchain.
 
-**React** node package
+-   _React_ node package
 
 An open source frontend JavaScript library for building user interfaces based on UI components.
 
@@ -57,7 +59,7 @@ An open source frontend JavaScript library for building user interfaces based on
 
 The above are used as a simpler alias to the CRA command.
 
-## Launching the application
+## Launching the application 💻
 
 #### Installing Metamask
 
@@ -101,6 +103,6 @@ Navigate to `localhost:[PORT]` on your browser to see your local version of the 
 
 Connect your metamask address to the Goerli network and use your address with the fake Goerli Ether to interact with the application
 
-## Live Version of the Application
+## Live Version of the Application 🌐
 
 **coming soon**
